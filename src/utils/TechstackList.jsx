@@ -12,6 +12,9 @@ import { SiRedux } from "react-icons/si";
 import { SiBootstrap} from "react-icons/si";
 import { SiTailwindcss} from "react-icons/si";
 import { RiJavaLine } from "react-icons/ri";
+import { FaGit } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa6";
+import { SiRecoil } from "react-icons/si";
 
 export const TechstackList =[
     {
@@ -79,6 +82,21 @@ export const TechstackList =[
         _id: 13,
         name: "Figma",
         icon: IoLogoFigma,
+    },
+    {
+        _id: 14,
+        name: "Git",
+        icon: FaGit,
+    },
+    {
+        _id: 15,
+        name: "Github",
+        icon: FaGithub,
+    },
+    {
+        _id: 16,
+        name: "Recoil",
+        icon: SiRecoil,
     },
 ]
 // import { IoLogoFigma, IoLogoHtml5, IoLogoCss3, IoLogoJavascript, IoLogoReact, IoLogoNodejs, IoLogoPython } from "react-icons/io5";

@@ -3,3 +3,27 @@
     margin-top: 50px;
     text-align: center;
 }
+.project-card{
+    width: 20vw;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    
+}
+.projects-cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5vh;
+    justify-content: space-between
+}
+.btn{
+    margin: 10px;
+}
+.card-notify-badge{
+    position: absolute;
+    background-color: aqua;
+    margin-left: 9px;
+    margin-top: 10px;
+    height: 32px;
+    width: 90px;
+    border-radius: 30px;
+}
