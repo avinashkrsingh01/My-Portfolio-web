@@ -1,0 +1,40 @@
+.sidebar-section {
+  transition: 0.5s;
+  display: flex;
+}
+.sidebar {
+  height: 100vh;
+  background-color: #1e1e2c;
+  width: 80px;
+  transition: 0.6s;
+}
+.sidebar-icons {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  cursor: pointer;
+  background-color: #f29f67;
+  height: 45px;
+  color: white;
+}
+.sidebar-toggle {
+  width: 230px;
+  height: 100vh;
+  background-color: #1e1e2c;
+
+}
+.container{
+  padding: 0;
+  max-width: none;
+  margin-left: 80px;
+  transition: 0.6s;
+}
+.container-toggle{
+  margin-left: 230px;
+  transition: 0.12s;
+}
+
+
+.menu-fix{
+  position: fixed;
+}

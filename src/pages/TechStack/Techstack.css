@@ -1,0 +1,27 @@
+.techstack-contant h1{
+    text-align: center;
+    padding-top: 10vh;
+    font-weight: bold;
+    color: rgb(24, 81, 62);
+}
+
+.tech-contant{
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+.cards{
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.tech-icon{
+    margin-right: 10px;
+    font-size: 2rem;
+}
+.card:hover{
+    background-color: #138781;
+    color: white;
+    transition: 0.4s;
+}
