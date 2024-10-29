@@ -33,21 +33,14 @@ export default function Menu({toggle}) {
             </div>
             <div className="nav-item">
                 <div className='nav-link'>
-                <MdWorkHistory />
-                {toggle && "Experience"}
-
-                </div>
+                <IoBookSharp />
+                {toggle && "Eductions"}
+                    </div>
             </div>
             <div className="nav-item">
                 <div className='nav-link'>
                 <RiJavaLine />
                 {toggle && "Tech Stack"}
-                    </div>
-            </div>
-            <div className="nav-item">
-                <div className='nav-link'>
-                <IoBookSharp />
-                {toggle && "Eductions"}
                     </div>
             </div>
             <div className="nav-item">
@@ -58,10 +51,12 @@ export default function Menu({toggle}) {
             </div>
             <div className="nav-item">
                 <div className='nav-link'>
-                <MdOutlinePersonPin />
-                {toggle && "Testimonial"}
-                    </div>
+                <MdWorkHistory />
+                {toggle && "Experience"}
+
+                </div>
             </div>
+            
             <div className="nav-item">
                 <div className='nav-link'>
                 <FaPhoneAlt />

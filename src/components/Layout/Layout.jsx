@@ -7,6 +7,8 @@ import Menu from '../Menus/Menu';
 import About from '../../pages/About/About';
 import Techstack from '../../pages/TechStack/Techstack';
 import Project from '../../pages/Projects/Project';
+import Educations from '../../pages/Educations/Educations';
+import Workexp from '../../pages/WorkExp/Workexp';
 
 const Layout = () => {
     const [toggle, setToggle] = useState(true);
@@ -36,8 +38,10 @@ const Layout = () => {
             
             <Home/>
             <About/>
+            <Educations/>
             <Techstack/>
             <Project/>
+            <Workexp/>
         </div>
       </div>
     </>
