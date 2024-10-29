@@ -14,8 +14,8 @@ const Project = () => {
         </p>
         <div className="projects-cards">
             
-            <span className="card-notify-badge">afdafa</span>
           <div className="project-card">
+            <span className="card-notify-badge">afdafa</span>
             <img src="https://th.bing.com/th/id/OIP.5qDsMnKCfnfQ124iaR1ddwHaEc?rs=1&pid=ImgDetMain" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -28,8 +28,8 @@ const Project = () => {
               </a>
             </div>
           </div>
-          
           <div className="project-card">
+          <span className="card-notify-badge">afdafsa</span>
             <img src="https://th.bing.com/th/id/OIP.xow4mqfTDmvci0PJuOG7TgHaEf?rs=1&pid=ImgDetMain" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -43,6 +43,7 @@ const Project = () => {
             </div>
           </div>
           <div className="project-card">
+          <span className="card-notify-badge">afdafsa</span>
             <img src="https://th.bing.com/th/id/OIP.5qDsMnKCfnfQ124iaR1ddwHaEc?rs=1&pid=ImgDetMain" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -56,6 +57,7 @@ const Project = () => {
             </div>
           </div>
           <div className="project-card">
+          <span className="card-notify-badge">afdafsa</span>
             <img src="https://www.inry.com/hs-fs/hubfs/INRY/IMG/insights/content/4046/servicenow-ppm-use-cases.png?width=635&name=servicenow-ppm-use-cases.png" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -69,6 +71,7 @@ const Project = () => {
             </div>
           </div>
           <div className="project-card">
+          <span className="card-notify-badge">afdafsa</span>
             <img src="https://th.bing.com/th/id/OIP.5qDsMnKCfnfQ124iaR1ddwHaEc?rs=1&pid=ImgDetMain" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -82,6 +85,7 @@ const Project = () => {
             </div>
           </div>
           <div className="project-card">
+          <span className="card-notify-badge">afdafsa</span>
             <img src="https://th.bing.com/th/id/OIP.qEsa_caAtgcPq1_U02Dc9QAAAA?w=474&h=266&rs=1&pid=ImgDetMain" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
