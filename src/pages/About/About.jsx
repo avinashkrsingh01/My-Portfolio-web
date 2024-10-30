@@ -12,7 +12,17 @@ export default function About() {
             </div>
             <div className='col-md-6 about-contant'>
                 <h1> About Me</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore corporis a explicabo autem? Debitis natus quam accusamus dolorem odit soluta ex doloribus ipsum alias reprehenderit neque excepturi commodi cum, facilis corporis quis magni suscipit quas numquam inventore, ut labore quisquam vitae eaque! Nulla molestias provident repudiandae alias pariatur nisi tempora impedit illum rem natus asperiores odio facere ducimus quia soluta ex aperiam, corporis inventore quidem distinctio architecto culpa! Neque, molestiae? Perspiciatis consequatur natus doloribus nesciunt modi, in veritatis quam excepturi, architecto culpa atque dicta veniam neque quia voluptatum? Sapiente libero nulla dolor cumque commodi qui voluptas molestias quis iure aspernatur quibusdam temporibus enim at eos, omnis perspiciatis pariatur nostrum incidunt laboriosam voluptates fuga eaque? Expedita eos neque nemo. Itaque animi quisquam tempore. Sequi tempore est, ab aspernatur ratione quis cum laborum delectus quaerat ut ipsa quos eligendi, placeat ducimus numquam minus corrupti in perspiciatis. Suscipit error nesciunt, illum saepe ipsam reprehenderit delectus eos itaque qui aliquam enim, minima officia quaerat sed sit ipsa obcaecati voluptas esse! Cum, eos expedita voluptatem consequuntur quas at perferendis ipsam in ab beatae quo numquam ratione ullam laudantium veniam.</p>
+                <p>Hello! I'm Avinash Kumar Singh, a passionate and driven B.Tech student at Polaris School of Technology in Gurugram, Haryana, graduating in 2027. My expertise lies in front-end development, competitive coding, and building innovative projects that solve real-world problems.
+
+Through extensive training at FunctionUp, I honed my technical skills in front-end technologies such as React, JavaScript, HTML, CSS, and Tailwind CSS. I also dive deep into backend technologies, mastering Express.js, JSON, and API creation. My journey is defined by continuous learning—whether it’s mastering Java, exploring number theory for competitive programming, or contributing to open-source projects.
+
+I’m a keen problem-solver, always pushing my limits by participating in hackathons and coding competitions. Recently, my team secured 2nd place in the Hack With Uttarakhand Hackathon, where we presented "Rozgaar AI," an AI-powered solution for job seekers. I also have a strong interest in localization and love staying updated with current global events.
+
+In addition to coding, I’m working on my portfolio website and job portal, where developers can share insights, create resumes, and prepare effectively for interviews.
+
+Let’s connect and create something impactful together!
+
+</p>
             </div>
         </div>
       </div>
