@@ -8,7 +8,7 @@ const Educations = () => {
   return (
     <>
       
-      <div className='education-heading'>
+      <div className='education-heading' id='education'>
         <h1>Education Details</h1>
         <VerticalTimeline>
         <VerticalTimelineElement

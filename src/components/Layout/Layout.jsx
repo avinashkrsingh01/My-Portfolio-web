@@ -9,6 +9,12 @@ import Techstack from '../../pages/TechStack/Techstack';
 import Project from '../../pages/Projects/Project';
 import Educations from '../../pages/Educations/Educations';
 import Workexp from '../../pages/WorkExp/Workexp';
+import Contact from '../../pages/Contact/Contact';
+import Footer from '../../pages/Footer/Footer';
+import Achievement from '../../pages/Acchivment/Acchivment';
+import ScrollToTop from "react-scroll-to-top";
+
+
 
 const Layout = () => {
     const [toggle, setToggle] = useState(true);
@@ -42,6 +48,11 @@ const Layout = () => {
             <Techstack/>
             <Project/>
             <Workexp/>
+            <Achievement/>
+            <Contact/>
+            
+      <ScrollToTop smooth />
+            <Footer/>
         </div>
       </div>
     </>

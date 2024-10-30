@@ -6,7 +6,7 @@ import Resume from "../../assets/docs/AvinashUpdateResume.pdf"
 export default function Home() {
   return (
     <>
-      <div className="heading-container">
+      <div className="heading-container" id="home">
         <div className="main-heading-container">
           <h1 >Hii 👋 i'm a</h1>
           <h2><Typewriter

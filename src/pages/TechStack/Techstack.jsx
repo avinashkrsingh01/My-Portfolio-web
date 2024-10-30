@@ -5,7 +5,7 @@ import { TechstackList } from "../../utils/TechstackList";
 export default function Techstack() {
   return (
     <>
-      <div className='techstack-contant'>
+      <div className='techstack-contant' id='techstack'>
         <h1>Technologies Stack</h1>
         <p className='tech-contant'>
             👉 including programming Languages, framworks, databases, front-end and back-end tools, and APIs

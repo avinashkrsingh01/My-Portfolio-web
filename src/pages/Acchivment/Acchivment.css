@@ -1,0 +1,55 @@
+/* src/Achievements.css */
+
+.achievements {
+    padding: 50px 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .achievements h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .achievements-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .achievement-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .achievement-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .icon {
+    margin-bottom: 15px;
+  }
+  
+  .achievement-card h3 {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .achievement-card p {
+    font-size: 0.95em;
+    color: #666;
+    margin: 10px 0;
+  }
+  
+  .date {
+    font-size: 0.85em;
+    color: #888;
+  }
+  
