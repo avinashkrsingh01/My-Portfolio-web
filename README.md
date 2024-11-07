@@ -1,5 +1,5 @@
 # Avinash Kumar Singh - Portfolio
-To Visit my website Click 👉 [Link Text](my-portfolio-web-swart.vercel.app)    
+To Visit my website Click 👉 [Visit My Vercel Project](my-portfolio-web-swart.vercel.app)
 
 Welcome to my portfolio! This repository showcases my skills, projects, and experiences in web development, competitive programming, and beyond. Built with React and styled to create a clean, user-friendly experience, this portfolio is a reflection of my journey in tech, from frontend development to hackathons.
 
